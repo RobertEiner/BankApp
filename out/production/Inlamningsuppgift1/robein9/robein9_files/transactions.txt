@@ -1,0 +1,3 @@
+Transactions saved: 2023-12-03
+[2023-12-03 15:23:56 2 000,00 kr Saldo: 2 000,00 kr, 2023-12-03 15:24:11 −200,00 kr Saldo: 1 800,00 kr]
+Current balance: 1800kr
